@@ -1,0 +1,59 @@
+name: future_track
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  firebase_core: ^2.30.0
+  cloud_firestore: ^4.15.8
+  image_picker: ^1.0.7
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png 
+    - assets/google.png
+    - assets/facebook.png
+    - assets/FrameAtas.png
+    - assets/banner_test.png
+    - assets/hiasan1.png
+    - assets/artikel1.png
+    - assets/artikel2.jpg
+    - assets/artikel3.jpg
+    - assets/illustration.png
+    - assets/background.png
+    - assets/background_splash.png
+    - assets/medali.png
+    - assets/background2.png
+    - assets/ui.png
+    - assets/ugm.png
+    - assets/its.png
+    - assets/itb.png
+    - assets/bsi.png
+    - assets/bank_indonesia.png
+    - assets/bgprofile.png
+    - assets/utbk_banner.png
+    - assets/unpad.png
+    - assets/undip.png
+    - assets/unair.png
+    - assets/unhas.png
+    - assets/ub.png
+    - assets/uns.png
+    - assets/upi.png
+    - assets/um.png
